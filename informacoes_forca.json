@@ -1,0 +1,31 @@
+{
+	"categoria":
+	{
+		"animais": [
+			{
+				"palavra": "cavalo",
+				"dicas" : ["grande", "xxxxxxxxxxxx"]
+			},
+			{
+				"palavra": "barata",
+				"dicas" : ["feia", "xxxxxxxxx"]
+			},
+			{
+				"palavra": "sapo",
+				"dicas" : ["xxxxxx", "xxxxxxxxxxxxx"]
+			}
+		],
+		"comidas": [
+			{
+				"palavra": "xxxxxxxxxxx",
+				"dicas" : ["xxxxxxxxx", "xxxxxxxxxxx"]
+			}
+		],
+		"cores": [
+			{
+				"palavra": "xxxxxxxxxxx",
+				"dicas" : ["xxxxxxxxx", "xxxxxxxxxxx"]
+			}
+		]
+	}
+}
